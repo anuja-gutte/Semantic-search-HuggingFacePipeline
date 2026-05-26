@@ -1,0 +1,60 @@
+Artificial Intelligence is transforming modern technology and businesses.
+
+Machine learning is a branch of AI that enables systems to learn from data.
+
+Deep learning uses neural networks with multiple layers.
+
+Natural Language Processing helps computers understand human language.
+
+Semantic search focuses on understanding meaning rather than exact keywords.
+
+Vector databases store embeddings for fast similarity search.
+
+FAISS is a popular vector database library developed by Facebook AI Research.
+
+Python is one of the most widely used programming languages in artificial intelligence.
+
+Gradio allows developers to build machine learning web applications quickly.
+
+Embeddings convert text into numerical vectors that capture semantic meaning.
+
+Recommendation systems use similarity search to suggest products and content.
+
+Computer vision enables machines to analyze and understand images.
+
+Large Language Models are trained on massive text datasets.
+
+Transformers are neural network architectures widely used in NLP tasks.
+
+Chatbots use natural language understanding to interact with users.
+
+Data preprocessing is an important step in machine learning pipelines.
+
+Cloud computing helps deploy AI applications at scale.
+
+Speech recognition converts spoken language into text.
+
+AI-powered healthcare systems assist doctors in diagnosis and treatment.
+
+Cybersecurity systems use machine learning to detect suspicious activities.
+
+Semantic similarity measures how closely two pieces of text are related in meaning.
+
+Search engines increasingly rely on semantic understanding for better results.
+
+Tokenization splits text into smaller units for NLP processing.
+
+Hugging Face provides open-source models and tools for machine learning.
+
+Sentence Transformers generate embeddings optimized for semantic tasks.
+
+AI assistants can answer questions using retrieval augmented generation.
+
+Vector embeddings are commonly stored as floating-point numerical arrays.
+
+Machine learning models improve performance through training and optimization.
+
+Text summarization reduces long documents into concise summaries.
+
+Information retrieval systems help users find relevant documents efficiently.
+
